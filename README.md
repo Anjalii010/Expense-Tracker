@@ -1,5 +1,5 @@
 # Expense-Tracker
-This Python application provides a simple GUI to track your expenses by category. You can add expenses, view total expenses, and view expenses by category.
+This Python-based Expense Tracker application allows users to manage and categorize their expenses efficiently. With a simple graphical user interface (GUI) built using tkinter, users can add expenses, view total expenses, and check expenses for specific categories.
 
 Features
 
